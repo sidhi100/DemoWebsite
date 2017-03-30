@@ -4,17 +4,21 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Well Hello There!</title>
+    <title></title>
 </head>
 <body>
-    <div class="container-fluid">
-        <h1>Hello World!</h1>
-        <p>Resize the browser window to see the effect.</p>
-        <div class="row">
-            <div class="col-sm-4" style="background-color: lavender;">.col-sm-4</div>
-            <div class="col-sm-4" style="background-color: lavenderblush;">.col-sm-4</div>
-            <div class="col-sm-4" style="background-color: lavender;">.col-sm-4</div>
+    <form id="form1" runat="server">
+        <div>
+            <div class="container-fluid">
+                <h1>Hello World!</h1>
+                <p>Resize the browser window to see the effect.</p>
+                <div class="row">
+                    <div class="col-sm-4" style="background-color: lavender;">.col-sm-4</div>
+                    <div class="col-sm-4" style="background-color: lavenderblush;">.col-sm-4</div>
+                    <div class="col-sm-4" style="background-color: lavender;">.col-sm-4</div>
+                </div>
+            </div>
         </div>
-    </div>
+    </form>
 </body>
 </html>
