@@ -9,8 +9,6 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <p>Hello World</p>
-            <a>This is a test</a>
         </div>
     </form>
 </body>
