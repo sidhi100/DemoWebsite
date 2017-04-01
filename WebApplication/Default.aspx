@@ -13,7 +13,7 @@
     <form id="form1" runat="server">
         <div>
             <div class="container-fluid">
-                <h1>Hello World! - Ali Here</h1>
+                <h1>Hello World!</h1>
                 <p>Resize the browser window to see the effect.</p>
                 <div class="row">
                     <div class="col-sm-4" style="background-color: lavender;">.col-sm-4</div>
