@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="container-fluid">
-        <h1>Hi Muby!</h1>
+        <h1>Hi There!</h1>
         <a class="btn" href="#">Hover Over Me</a>
     </div>
 </body>
